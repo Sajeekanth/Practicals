@@ -83,7 +83,7 @@
 </head>
 <body>
 <?php
-require_once 'conf.php';
+require_once 'dbconf.php';
 require_once 'func.php';
 ?>
 <div class="main">
